@@ -352,19 +352,3 @@
 			}
 			 ]
 	}
-
-	        LatLng start = new LatLng(28.691319, 76.931934);
-        LatLng two = new LatLng(28.690566, 76.938372);
-        LatLng three = new LatLng(28.689663, 76.948071);
-        LatLng four = new LatLng(28.688383, 76.960773);
-        LatLng five = new LatLng(28.687404, 76.972876);
-        LatLng six = new LatLng(28.686049, 76.986179);
-        LatLng seven = new LatLng(28.685070, 76.999826);
-        LatLng eight = new LatLng(28.683338, 77.014160);
-        LatLng nine = new LatLng(28.683188, 77.025490);
-        LatLng tenth = new LatLng(28.682736, 77.041111);
-        LatLng eleven = new LatLng(28.682133, 77.054586);
-        LatLng twelveth = new LatLng(28.681757, 77.069521);
-        LatLng end = new LatLng(28.682284, 77.071667);
-
-      
