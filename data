@@ -1,73 +1,73 @@
 {
   "ranges": [
     {
-      "kms": "8.0",
-      "startLat": "28.691029",
-      "startLong": "76.931934",
-      "endLat": "28.687630",
-      "endLong": "76.973305",
+      "kms": 8.0,
+      "startLat": 28.691029,
+      "startLong": 76.931934,
+      "endLat": 28.687630,
+      "endLong": 76.973305,
       "acceldata": [
         {
-          "startLat": "28.691029",
-          "startLong": "76.931934",
-          "endLat": "28.690789",
-          "endLong": "76.934874",
+          "startLat": 28.691029,
+          "startLong": 76.931934,
+          "endLat": 28.690789,
+          "endLong": 76.934874,
           "startTime": "",
           "endTime": "",
-          "id": "1",
+          "id": 1,
           "data": [
             {
-              "accelx": "-0.14715576",
-              "accely": "-0.10221863",
-              "accelz": "9.683685",
-              "latitude": "28.691432",
-              "longitude": "76.931108"
+              "accelx": -0.14715576,
+              "accely": -0.10221863,
+              "accelz": 9.683685,
+              "latitude": 28.691432,
+              "longitude": 76.931108
             },
             {
-              "accelx": "-0.14715576",
-              "accely": "-0.10221863",
-              "accelz": "9.683685",
-              "latitude": "28.691311",
-              "longitude": "76.931666"
+              "accelx": -0.14715576,
+              "accely": -0.10221863,
+              "accelz": 9.683685,
+              "latitude": 28.691311,
+              "longitude": 76.931666
             },
             {
-              "accelx": "-0.14715576",
-              "accely": "-0.10221863",
-              "accelz": "9.683685",
-              "latitude": "28.691250",
-              "longitude": "76.931945"
+              "accelx": -0.14715576,
+              "accely": -0.10221863,
+              "accelz": 9.683685,
+              "latitude": 28.691250,
+              "longitude": 76.931945
             }
           ]
         },
         {
-          "startLat": "28.691306",
-          "startLong": "76.931473",
-          "endLat": "28.690652",
-          "endLong": "76.935979",
+          "startLat": 28.691306,
+          "startLong": 76.931473,
+          "endLat": 28.690652,
+          "endLong": 76.935979,
           "startTime": "",
           "endTime": "",
-          "id": "",
+          "id": 2,
           "data": [
             {
-              "accelx": "-0.14715576",
-              "accely": "-0.10221863",
-              "accelz": "9.683685",
-              "latitude": "28.691306",
-              "longitude": "76.931473"
+              "accelx": -0.14715576,
+              "accely": -0.10221863,
+              "accelz": 9.683685,
+              "latitude": 28.691306,
+              "longitude": 76.931473
             },
             {
-              "accelx": "-0.14715576",
-              "accely": "-0.10221863",
-              "accelz": "9.683685",
-              "latitude": "28.691189",
-              "longitude": "76.932165"
+              "accelx": -0.14715576,
+              "accely": -0.10221863,
+              "accelz": 9.683685,
+              "latitude": 28.691189,
+              "longitude": 76.932165
             },
             {
-              "accelx": "-0.14715576",
-              "accely": "-0.10221863",
-              "accelz": "9.683685",
-              "latitude": "28.691156",
-              "longitude": "76.932369"
+              "accelx": -0.14715576,
+              "accely": -0.10221863,
+              "accelz": 9.683685,
+              "latitude": 28.691156,
+              "longitude": 76.932369
             }
           ]
         }
