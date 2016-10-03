@@ -8,10 +8,10 @@
       "endLong": 76.973305,
       "acceldata": [
         {
-          "startLat": 28.691029,
-          "startLong": 76.931934,
-          "endLat": 28.690789,
-          "endLong": 76.934874,
+          "startLat": 28.691122,
+          "startLong": 76.932023,
+          "endLat": 28.691023,
+          "endLong": 76.932921,
           "startTime": "",
           "endTime": "",
           "id": 1,
@@ -40,10 +40,10 @@
           ]
         },
         {
-          "startLat": 28.691306,
-          "startLong": 76.931473,
-          "endLat": 28.690652,
-          "endLong": 76.935979,
+          "startLat": 28.690983,
+          "startLong": 76.932648,
+          "endLat": 28.690856,
+          "endLong": 76.93375,
           "startTime": "",
           "endTime": "",
           "id": 2,
